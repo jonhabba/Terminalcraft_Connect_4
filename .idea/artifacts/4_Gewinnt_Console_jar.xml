@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="4_Gewinnt_Console:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/4_Gewinnt_Console_jar</output-path>
+    <root id="archive" name="4_Gewinnt_Console.jar">
+      <element id="module-output" name="4_Gewinnt_Console" />
+    </root>
+  </artifact>
+</component>
